@@ -1,0 +1,5 @@
+homepage: "https://powerclick.io"
+documentation: "https://github.com/datasift-io/powerclick-applovin-axon#readme"
+versions:
+  - sha: c0eb6df46e7ca3ac3f26bbd528b13600afe1b29c
+    changeNotes: Initial release.
