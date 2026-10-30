@@ -1,5 +1,7 @@
 homepage: "https://powerclick.io"
 documentation: "https://github.com/datasift-io/powerclick-applovin-axon#readme"
 versions:
+  - sha: 4b2ab5ca5e0c2bcc4ce9e1d41de7661683c6e8d1
+    changeNotes: Adds the PowerClick icon.
   - sha: c0eb6df46e7ca3ac3f26bbd528b13600afe1b29c
     changeNotes: Initial release.
